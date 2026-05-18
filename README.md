@@ -54,8 +54,14 @@ Spider‑Man: No Way Home stands out as the most popular movie in the dataset.
 
 2020 saw the highest number of movie releases.
 
-## Here is the Dataset
+## Here is the Dataset 
+(https://github.com/Shruti19-17/Netflix-Movies-Analysis-/blob/main/mymoviedb.csv)
 
-Casted Genre and Vote_Average into categorical types for efficient analysis.
+## 🔮 Future Work
+Add recommendation system based on genres and popularity.
 
-Removed missing values to ensure a tidy dataset.
+Perform sentiment analysis on movie overviews.
+
+Explore time‑series trends in popularity and votes.
+
+Build interactive dashboards with Power BI / Plotly Dash.
